@@ -1,0 +1,19 @@
+21.10.25 
+
+Objetivo: Conexão com banco dados MySQL e Workbench 
+
+1º Start no XAMMP (MySQL)
+2º Start no MySQL Workbench 
+3º Verificar a comunicação na GUI (MySQL)
+4º Criar o Banco de Dados com nome EtecDB 
+5º Executar Script para Popular o banco de dados Etecdb 
+6º Consultar o banco de dados com script "Consulta.sql"
+7º Copiar o algoritmo de conexão para BDSQL 
+8º Instalar a biblioteca do MySQL 
+9º Instalar o Python na máquina no link https://www.python.org/downloads/
+10º Rodar o comando : python --version : Para Verificar a versão do python
+11º Rodar o comando : python -m pip --version : Para verificar a versão do pacote do pip e se ele está instalado
+12º Rodar os comandos : python -m pip install mysql-connector-python
+13º Rodar o comando : python -m pip install mysql-connector-python 
+
+
